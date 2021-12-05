@@ -8,7 +8,7 @@ server {
         root   /home/www/sites/kit_nginx.test/public_html;
         index  index.html index.htm;
     }
-
+# test commit
     #error_page  404              /404.html;
 
     # redirect server error pages to the static page /50x.html
